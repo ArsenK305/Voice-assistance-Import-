@@ -69,7 +69,7 @@ class voiceAssistance:
     offline = False
 
 class Me:
-    name = 'vasily'
+    name = 'arsen'
     location = 'paris'
     sex = 'male'
     
